@@ -1,0 +1,14 @@
+h1{
+  color: blue;
+  font-size: 200%;
+  text-indent: 600px;
+}
+
+p{
+  font-family: monospace;
+}
+
+#content {
+  border: solid 5px black;
+  border-style: dashed;
+}
