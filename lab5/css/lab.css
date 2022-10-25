@@ -1,0 +1,17 @@
+#content {
+  background-color: #c5c9bb;
+  padding:20px;
+}
+
+body {
+  text-align: left;
+  background-color: #815151;
+  border: solid 2px black;
+  margin: 5px;
+}
+
+#image {
+  position: relative;
+  right: 420px;
+  width: 500px;
+}

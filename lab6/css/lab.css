@@ -1,0 +1,34 @@
+#body {
+  background-color: #c5c9bb;
+  padding:20px;
+}
+
+body {
+  text-align: left;
+  font-size: 30px;
+  background-color: #815151;
+  border: solid 2px black;
+  margin: 5px;
+}
+
+#car_image {
+  position: relative;
+  right: 420px;
+  width: 500px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 40px;
+}
