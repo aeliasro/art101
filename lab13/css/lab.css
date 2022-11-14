@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: #51856b;
+    padding: 25px;
+    font-size: 120%;
+    margin: auto;
+}
+
+#content {
+    padding: 50px;
+    background-color: #95c6ad;
+    border: dotted 3px white;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+#fizzBuzzBoom{
+  padding: 50px;
+  background-color: #95c6ad;
+  border: dotted 3px white;
+  min-height: 80vh;
+}
+
+h2 {
+  font-family: "Lucida Console", monospace;
+}
+
+div#output {
+    margin-top: 0;
+    margin-bottom: 0;
+    border: solid 2px white;
+}
+ 
+.error {
+    color: red;
+    font-weight: bold;
+}
